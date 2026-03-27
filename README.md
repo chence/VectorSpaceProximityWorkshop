@@ -63,5 +63,6 @@ For selected queries, we manually created relevance judgments and computed:
 TF-IDF representation generally provided better ranking quality compared to binary representation, especially for queries involving common terms.
 
 ## How to Run
-$pip install numpy pandas scikit-learn nltk nbconvert  
+Run the following command in the terminal:
+pip install numpy pandas scikit-learn nltk nbconvert  
 jupyter nbconvert --to notebook --execute VectorSpaceProximityWorkshop.ipynb
