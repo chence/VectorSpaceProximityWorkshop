@@ -1,12 +1,18 @@
 # Vector Space Proximity Workshop
 
-## Student
-- Name: Ce Chen
-- StudentID: 9007166
+## Group Info:
 - Group: Group1
+- Team Members:
+    - Ce Chen | 9007166
+    - Zhuoran Zhang | 9048508
 
 ## GitHub Link
 https://github.com/chence/VectorSpaceProximityWorkshop.git
+
+## Dependencies
+```shell
+$ pip install numpy pandas scikit-learn nltk
+```
 
 ## Main Notebook
 - `VectorSpaceProximityWorkshop.ipynb`
