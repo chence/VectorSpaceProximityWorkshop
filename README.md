@@ -9,6 +9,9 @@
 ## GitHub Link
 https://github.com/chence/VectorSpaceProximityWorkshop.git
 
+## About Workshops
+Both team members completed their individual workshops. Zhuoran’s version is labeled with the suffix “ZZ”. The grading should mainly be based on VectorSpaceProximityWorkshop.ipynb.
+
 ## Dependencies
 ```shell
 $ pip install numpy pandas scikit-learn nltk
@@ -58,3 +61,7 @@ For selected queries, we manually created relevance judgments and computed:
 
 ## Results
 TF-IDF representation generally provided better ranking quality compared to binary representation, especially for queries involving common terms.
+
+## How to Run
+$ pip install numpy pandas scikit-learn nltk
+jupyter nbconvert --to notebook --execute VectorSpaceProximityWorkshop.ipynb
