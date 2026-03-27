@@ -64,5 +64,5 @@ TF-IDF representation generally provided better ranking quality compared to bina
 
 ## How to Run
 Run the following command in the terminal:  
-pip install numpy pandas scikit-learn nltk nbconvert  
-jupyter nbconvert --to notebook --execute VectorSpaceProximityWorkshop.ipynb
+pip install numpy pandas scikit-learn nltk ipykernel  
+then open VectorSpaceProximityWorkshop.ipynb and run all.
